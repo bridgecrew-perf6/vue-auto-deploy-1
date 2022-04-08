@@ -19,4 +19,4 @@ jobs:
           passphrase: ${{ secrets.PASSPHRASE }}
           key: ${{ secrets.ID_ED25519 }}
           port: ${{ secrets.PORT }}
-          script: whoami
+          script: sudo sh deploy.sh
