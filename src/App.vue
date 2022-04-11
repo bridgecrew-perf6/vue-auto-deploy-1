@@ -8,7 +8,7 @@
     <p>
       MyNotePaper.com Presents:<br /><br />
       <a href="https://s.mynotepaper.com/y1E4" target="_blank"
-        >Auto Deploy Vue.js App to Nginx Using GitHub CI/CD</a
+        >Complete Auto Deploy Vue.js App to AWS S3 Using GitLab CI/CD</a
       >
     </p>
   </div>
