@@ -1,19 +1,25 @@
 <template>
   <div id="app">
-    <img alt="CI/CD" src="./assets/ci-cd-test-deploy-illustration.png" style="max-width: 500px;">
+    <img
+      alt="CI/CD"
+      src="./assets/ci-cd-test-deploy-illustration.png"
+      style="max-width: 500px;"
+    />
     <p>
-      MyNotePaper.com Presents:<br><br>
-      <a href="https://s.mynotepaper.com/y1E4" target="_blank">Auto Deploy Vue.js App to AWS S3 Using GitLab CI/CD</a>
+      MyNotePaper.com Presents:<br /><br />
+      <a href="https://s.mynotepaper.com/y1E4" target="_blank"
+        >Auto Deploy Vue.js App to AWS S3 Using GitLab CI/CD</a
+      >
     </p>
+    <p>Auto deploy success</p>
   </div>
 </template>
 
 <script>
 export default {
-  name: 'App',
-  components: {
-  }
-}
+  name: "App",
+  components: {},
+};
 </script>
 
 <style>
